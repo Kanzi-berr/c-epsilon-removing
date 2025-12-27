@@ -1,5 +1,5 @@
 //kenzi berrahail
-
+//djihane khemis
 #include <stdio.h>
 
 #define MAX_STATES 32
